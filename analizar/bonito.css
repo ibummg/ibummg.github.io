@@ -1,0 +1,39 @@
+
+body {
+  margin-top: 75px;
+  margin-bottom: 75px;
+  margin-right: 105px;
+  margin-left: 170px;
+}
+ body {
+  background-color: #FDD7E4;
+}
+ p {
+	font-size: 18pt;
+	font-family: sans-serif;
+	color: black; 
+}
+
+input {
+  background-color: #FEFCFF;
+  border-color: dodgerblue;
+  color:black;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 6px 4px;
+  cursor: pointer;
+}
+
+p.four {
+	font-family: serif;
+	 background-image: linear-gradient(to bottom right, #FEFCFF, hotpink);
+	padding: 15px 10px;
+	color:dodgerblue;
+	border-color:black;
+  border-style: dotted;
+  border-width: thick;
+
+}

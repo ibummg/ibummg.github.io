@@ -1,0 +1,53 @@
+
+h1 {
+	color :cyan;
+}
+body {
+	background-color: lavender; }
+
+p {
+	font-size: 13pt;
+	font-family: sans-serif;
+	color: magenta;
+	-ms-transform: rotate(10deg); 
+  -webkit-transform: rotate(10deg); 
+  transform: rotate(10deg); 
+}
+
+h1 {
+	text-align: center;
+	font-family: serif; }
+
+a:link {
+	color: indigo; }
+
+a:visited{color: darkviolet;}
+
+table {border-color: cyan}
+
+input {
+  background-color: #FEFCFF;
+  border-color: dodgerblue;
+  color:black;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 6px 4px;
+  cursor: pointer;
+}
+
+input [type="reset"] [name="foto"] {
+	 background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+

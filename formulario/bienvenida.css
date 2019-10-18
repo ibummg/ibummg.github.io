@@ -1,0 +1,39 @@
+body {
+  margin-top: 2cm;
+  margin-bottom: 2cm;
+  margin-right: 2cm;
+  margin-left: 2cm;
+}
+ body {
+  background-color: #82CAFA;
+}
+ p {
+	font-size: 18pt;
+	font-family: sans-serif;
+	color: black; 
+}
+
+.boton {
+  background-color: #FF00FF;
+  border-color: dodgerblue;
+  color:white;;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 6px 4px;
+  cursor: pointer;
+}
+
+.four {
+	font-family: serif;
+	 background-image: linear-gradient(to bottom right, #98AFC7, #008080);
+	padding: 15px 10px;
+	color:#6CC417;
+	border-color:black;
+  border-style: dotted;
+  border-width: thick;
+
+}
+
