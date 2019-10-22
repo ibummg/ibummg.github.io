@@ -1,0 +1,32 @@
+body {
+	margin-top: 2.2cm;
+  	margin-bottom: 2.3cm;
+  	margin-right: 2.1cm;
+  	margin-left: 2cm;
+}
+
+h1 {
+	color:magenta;
+	font-size: 24pt;
+	font-family: serif;
+	text-align: center;
+	text-decoration: none;
+	text-transform: capitalize;
+	line-height: 1.4;
+	word-spacing: -6px;
+	text-shadow: 2px 1px black;
+}
+
+p {
+	color: black;
+	border:dotted;
+	background-image: linear-gradient(to right, plum , rebeccapurple);
+	text-align: center;
+}
+
+.links {
+	color:magenta;
+	text-decoration: underline;
+}
+
+
