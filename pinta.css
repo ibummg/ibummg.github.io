@@ -15,7 +15,9 @@ p {
 
 h1 {
 	text-align: center;
-	font-family: serif; }
+	font-family: 'Cedarville Cursive';
+	font-size: 22px;
+}
 
 a:link {
 	color: indigo; }
