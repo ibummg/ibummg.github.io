@@ -15,7 +15,10 @@ p {
 }
 
 a:link {
-	color: indigo; }
+	color: indigo; 
+	  font-family: 'Combo';
+	font-size: 22px;
+}
 
 a:visited{color: darkviolet;}
 
