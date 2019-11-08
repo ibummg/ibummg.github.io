@@ -1,6 +1,8 @@
 
 h1 {
 	color :cyan;
+  font-family:'Black And White Picture';
+  font-size: 22px;
 }
 body {
 	background-color: lavender; }
