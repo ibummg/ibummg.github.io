@@ -37,3 +37,38 @@ p.four {
   border-width: thick;
 
 }
+
+links {
+  color:magenta;
+  text-decoration: underline;
+}
+
+.barra {
+  background-color: plum;
+  text-decoration: none;
+  color: black;
+  height:0,5cm; 
+  width: 4cm;
+  display: inline-block;
+  text-align: center;
+
+
+}
+
+ul {
+   list-style-type: none;
+}
+
+
+.tabla_derecha {
+  background-color: #f1f1f1;
+    color: #000;
+  padding-right: :15px;
+    text-decoration: none;
+    background-color: plum;
+    
+}
+
+.barra:hover:not(.active) {
+  background-color: #555;
+}
