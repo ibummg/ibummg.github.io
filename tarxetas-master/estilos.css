@@ -166,3 +166,16 @@ label:before {
 }
 a {color: rgba(0,0,0,.4)}
 a:hover {color: rgba(0,0,0,.2)}
+
+
+
+
+
+.barra {
+  background-color: plum;
+  text-decoration: none;
+  color: black;
+  height:0,5cm; 
+  width: 4cm;
+  display: inline-block;
+  text-align: center;
