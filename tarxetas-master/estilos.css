@@ -171,7 +171,7 @@ a:hover {color: rgba(0,0,0,.2)}
 
 
 
-.barra { position: absolute;
+.barra {
   background-color: plum;
   text-decoration: none;
   color: black;
