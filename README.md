@@ -1,2 +1,2 @@
 # Holaaaaaaaaaaaaaaaaaaaa
-Aquí tengo que subir trabajos para la Srta. profe
+Visita o [meu blog](https://ibuummg.wordpress.com/), tamén podes visitar o da [profe](https://irocho.wordpress.com/)
