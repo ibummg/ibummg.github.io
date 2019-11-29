@@ -1,4 +1,4 @@
-<img style="float:left" height="128px"   src="/imaxes/chimmy2.png" alt="" />
+<img style="float:left" height="128px"   src="./chimmy2.png" alt="" />
 
 # Bootstrap
 
